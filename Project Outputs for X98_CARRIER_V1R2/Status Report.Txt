@@ -1,51 +1,11 @@
-Output: Gerber X2 Files
-Type  : GerberX2
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [X98_CARRIER_V1R2.PrjPcb]
-   Generated File[X98_CARRIER_V1R2_12082022_Copper_Signal_Top.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Copper_Signal_1.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Copper_Signal_2.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Copper_Signal_Bot.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Pads_Bot.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Pads_Top.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Legend_Top.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Legend_Bot.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Soldermask_Top.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Soldermask_Bot.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Paste_Top.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Paste_Bot.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Keep-out.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_1.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Top_Courtyard.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_5.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Bottom_Courtyard.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Top_3D_Body.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Bottom_3D_Body.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Top_Component_Center.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Bottom_Component_Center.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_12.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_13.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Top_Component_Outline.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_15.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Bottom_Component_Outline.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Top_Dimensions.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Bottom_Dimensions.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_53.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_52.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_50.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Mechanical_44.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Top_Assembly.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Bottom_Assembly.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Route_Guide.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Profile.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_NPTH_Drill.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_PTH_Drill.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Drawing_1.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022_Drillmap_1.gbr]
-   Generated File[X98_CARRIER_V1R2_12082022.EXTREP]
-   Generated File[X98_CARRIER_V1R2_12082022.REP]
+   Generated File[Pick Place for X98_CARRIER_V1R2_12082022.txt]
+   Generated File[Pick Place for X98_CARRIER_V1R2_12082022.csv]
 
 
-Files Generated   : 42
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 3:17:18 PM On 3/26/2024
+Finished Output Generation At 7:14:17 PM On 3/26/2024
