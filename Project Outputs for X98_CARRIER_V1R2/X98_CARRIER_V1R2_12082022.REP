@@ -1,0 +1,1121 @@
+*************************************************************
+FileName = X98_CARRIER_V1R2_12082022.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : X98_CARRIER_V1R2_12082022_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : X98_CARRIER_V1R2_12082022_Copper_Signal_1.gbr
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D68
+    D71
+    D72
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : X98_CARRIER_V1R2_12082022_Copper_Signal_2.gbr
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D68
+    D69
+    D71
+    D72
+    D73
+    D82
+    D83
+    D84
+    D85
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : X98_CARRIER_V1R2_12082022_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D21
+    D22
+    D23
+    D29
+    D33
+    D34
+    D36
+    D46
+    D58
+    D62
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : X98_CARRIER_V1R2_12082022_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D21
+    D22
+    D23
+    D29
+    D33
+    D34
+    D36
+    D46
+    D58
+    D62
+    D65
+    D66
+    D67
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : X98_CARRIER_V1R2_12082022_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : X98_CARRIER_V1R2_12082022_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : X98_CARRIER_V1R2_12082022_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D138
+    D139
+    D140
+    D141
+    D144
+    D145
+    D146
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : X98_CARRIER_V1R2_12082022_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D17
+    D18
+    D21
+    D28
+    D30
+    D33
+    D47
+    D48
+    D49
+    D50
+    D51
+    D64
+    D66
+    D91
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : X98_CARRIER_V1R2_12082022_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D21
+    D33
+    D66
+    D104
+    D109
+    D125
+    D126
+    D127
+    D133
+    D136
+    D137
+    D156
+    D160
+    D166
+    D169
+    D170
+    D172
+    D182
+    D193
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : X98_CARRIER_V1R2_12082022_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D67
+    D244
+    D245
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : X98_CARRIER_V1R2_12082022_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D21
+    D22
+    D23
+    D29
+    D33
+    D34
+    D36
+    D46
+    D58
+    D62
+    D65
+    D67
+    D105
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D245
+    D246
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : X98_CARRIER_V1R2_12082022_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D247
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : X98_CARRIER_V1R2_12082022_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D141
+    D248
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : X98_CARRIER_V1R2_12082022_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D139
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : X98_CARRIER_V1R2_12082022_Mechanical_5.gbr
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : X98_CARRIER_V1R2_12082022_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D139
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : X98_CARRIER_V1R2_12082022_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D139
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : X98_CARRIER_V1R2_12082022_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D139
+    D248
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : X98_CARRIER_V1R2_12082022_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D147
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : X98_CARRIER_V1R2_12082022_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D147
+    D249
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : X98_CARRIER_V1R2_12082022_Mechanical_12.gbr
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : X98_CARRIER_V1R2_12082022_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D139
+    D140
+    D144
+    D147
+    D149
+    D247
+    D250
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : X98_CARRIER_V1R2_12082022_Top_Component_Outline.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : X98_CARRIER_V1R2_12082022_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D140
+    D141
+    D147
+    D249
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : X98_CARRIER_V1R2_12082022_Bottom_Component_Outline.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+    D249
+*************************************************************
+
+*************************************************************
+Generating : Top Dimensions
+      File : X98_CARRIER_V1R2_12082022_Top_Dimensions.gbr
+
+    Adding Layer      : Top Dimensions
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Dimensions
+      File : X98_CARRIER_V1R2_12082022_Bottom_Dimensions.gbr
+
+    Adding Layer      : Bottom Dimensions
+
+
+Used DCodes :
+    D147
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 53
+      File : X98_CARRIER_V1R2_12082022_Mechanical_53.gbr
+
+    Adding Layer      : Mechanical 53
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 52
+      File : X98_CARRIER_V1R2_12082022_Mechanical_52.gbr
+
+    Adding Layer      : Mechanical 52
+
+
+Used DCodes :
+    D251
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 50
+      File : X98_CARRIER_V1R2_12082022_Mechanical_50.gbr
+
+    Adding Layer      : Mechanical 50
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 44
+      File : X98_CARRIER_V1R2_12082022_Mechanical_44.gbr
+
+    Adding Layer      : Mechanical 44
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : X98_CARRIER_V1R2_12082022_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D139
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : X98_CARRIER_V1R2_12082022_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D139
+*************************************************************
+
+*************************************************************
+Generating : Route Guide
+      File : X98_CARRIER_V1R2_12082022_Route_Guide.gbr
+
+    Adding Layer      : Route Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : X98_CARRIER_V1R2_12082022_Profile.gbr
+
+
+Used DCodes :
+    D252
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : X98_CARRIER_V1R2_12082022_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : X98_CARRIER_V1R2_12082022_PTH_Drill.gbr
+
+
+Used DCodes :
+    D253
+    D254
+    D255
+    D256
+    D257
+    D258
+    D259
+    D260
+    D261
+    D262
+    D263
+    D264
+    D265
+    D266
+    D267
+    D268
+    D269
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : X98_CARRIER_V1R2_12082022_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D140
+    D145
+    D271
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : X98_CARRIER_V1R2_12082022_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D140
+*************************************************************
+

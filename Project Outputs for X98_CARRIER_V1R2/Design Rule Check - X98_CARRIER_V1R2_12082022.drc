@@ -1,0 +1,149 @@
+Protel Design System Design Rule Check
+PCB File : D:\pcb project\Dermscope_v2.1\X98_CARRIER_V1R2_12082022.PcbDoc
+Date     : 3/25/2024
+Time     : 9:21:17 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) ((InNet('NetC803_1') OR InNet('NetCON800_5'))),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (InComponent('U500')),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) ((InComponent('CON800') OR InComponent('CON602') OR InComponent('C925'))),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.508mm) (All),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.381mm) (OnLayer('Keep-Out Layer')),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.381mm) (OnLayer('Keep-Out Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InNet('NetCON800_G1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) ((InDifferentialPairClass('All Differential Pairs'))),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=7.62mm) (Preferred=0.102mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=3mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=3mm) (PreferedWidth=0.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.142mm) (Max=0.652mm) (Prefered=0.652mm)  and Width Constraints (Min=0.076mm) (Max=0.102mm) (Prefered=0.102mm) ((InDifferentialPairClass('DIFF CSI 100 OHM') OR InDifferentialPairClass('ETHERNET 100 OHM') OR InDifferentialPairClass('DIFF DSI 100 OHM') OR InDifferentialPairClass('DIFF LVDS 100 OHM') OR InDifferentialPairClass('DIFF HDMI 100 OHM')))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.102mm) (Max=0.166mm) (Prefered=0.166mm)  and Width Constraints (Min=0.071mm) (Max=0.114mm) (Prefered=0.114mm) (InDifferentialPairClass('USB 90 OHM DIFF'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.102mm) (Max=0.127mm) (Prefered=0.127mm)  and Width Constraints (Min=0.072mm) (Max=0.128mm) (Prefered=0.128mm) (InDifferentialPairClass('DIFF PCIe 85 OHM'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.127mm) (Max=0.272mm) (Prefered=0.272mm)  and Width Constraints (Min=0.028mm) (Max=0.102mm) (Prefered=0.102mm) (InDifferentialPairClass('120 OHM'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.025mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) ((OnLayer('Bottom Overlay') OR OnLayer('Top Overlay')))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (InComponent('SW1001'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=10ps) (InDifferentialPairClass('DIFF LVDS 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=1ps) (InDifferentialPairClass('USB 90 OHM DIFF'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=1ps) (InDifferentialPairClass('ETHERNET 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF LVDS 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=1ps) (InDifferentialPairClass('DIFF PCIe 85 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF DSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF CSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InDifferentialPairClass('DIFF CSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF DSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0.102mm ) ((InComponent('CON300') OR InComponent('CON900'))),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = -0.025mm, Vertical Gap = Infinite ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0.025mm ) (InComponent('U600')),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=0.508mm) (All),(InNet('CHASIS'))
+   Waived Violation between Clearance Constraint: (0.2mm < 0.508mm) Between Pad J800-1(7.914mm,3.379mm) on Top Layer And Pad J800-SH2(6.989mm,3.929mm) on Multi-Layer Waived by  at 3/21/2024 11:53:52 AM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-1(7.914mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:53:50 AM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-2(8.564mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:54:23 AM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-3(9.214mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:54:25 AM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-4(9.864mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:54:28 AM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-5(10.514mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:53:35 AM
+   Waived Violation between Clearance Constraint: (0.2mm < 0.508mm) Between Pad J800-5(10.514mm,3.379mm) on Top Layer And Pad J800-SH5(11.439mm,3.929mm) on Multi-Layer Waived by  at 3/21/2024 11:53:38 AM
+Waived Violations :7
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.025mm) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.025mm) Between Pad U800-5(8.523mm,16.129mm) on Top Layer And Track (9.013mm,15.607mm)(9.013mm,16.651mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by Hiibrarahmad Hiibrarahmad at 3/21/2024 1:53:08 PM
+Waived Violations :1
+
+
+Violations Detected : 0
+Waived Violations : 8
+Time Elapsed        : 00:00:06
