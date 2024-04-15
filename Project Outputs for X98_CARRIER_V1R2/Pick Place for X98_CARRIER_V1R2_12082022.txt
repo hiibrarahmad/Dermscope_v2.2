@@ -1,11 +1,11 @@
 Altium Designer Pick and Place Locations
-D:\Dermscope_v2.2\Project Outputs for X98_CARRIER_V1R2\Pick Place for X98_CARRIER_V1R2_12082022.txt
+F:\PROJECTS\Dermscope_v2.2\Project Outputs for X98_CARRIER_V1R2\Pick Place for X98_CARRIER_V1R2_12082022.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       26/03/24
-Time:       19:14
+Date:       15/04/24
+Time:       00:03
 Revision:   1c344e993bcac4b7cc07cf5e4cb99f57174f8d7c
 Variant:    No variations
 Units used: mm
@@ -66,7 +66,7 @@ TopLayer    R606       67.1808      42.2071      180      0402_RES              
 TopLayer    C602       65.9453      28.6926      270      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 TopLayer    C601       64.3381      28.6926      270      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 TopLayer    C600       65.1417      28.6926      270      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
-TopLayer    L607       66.9263      29.0175      90       0603_RES                     "0OHM 0603"                                                                                                 RC0603JR-070RL               
+TopLayer    L607       66.9263      29.0175      90       0603_RES_1                   "0OHM 0603"                                                                                                 RC0603JR-070RL               
 TopLayer    CON602     50.7620      6.9297       0        CON-L-KLS1-285-1-N-1         "CONNECTOR SOCKET HDMI SMD 1.4 19PIN
 R/A"                                                                  L-KLS1-285-1-N-1-R           
 TopLayer    U901       15.3047      29.1730      270      LQFP48                       "IC 4XCH USB Hub Controller USB 2.0 USB Interface 48-QFP (7x7)"                                             FE1.1-AQFP48A                
@@ -91,7 +91,7 @@ TopLayer    R621       46.9899      13.7828      270      0402_RES              
 TopLayer    R620       47.7821      13.7828      270      0402_RES                     "RES 0 OHM JUMPER 1/16W 0402"                                                                               RMCF0402ZT0R00               
 TopLayer    R619       74.1473      32.1694      270      0402_RES                     "RES 10K OHM 5% 1/16W 0402"                                                                                 RMCF0402JT10K0               
 TopLayer    R513       33.6301      20.9133      270      0402_RES                     "RES, THICK FILM, 22R, 5%, 0.0625W, 0402, REEL"                                                             RC0402JR-0722RL.             
-TopLayer    R512       34.4251      20.9133      270      0402_RES                     "RES, THICK FILM, 22R, 5%, 0.0625W, 0402, REEL"                                                             RC0402JR-0722RL.             
+TopLayer    R512       34.4251      20.9133      270      0402_RES_5                   "RES, THICK FILM, 22R, 5%, 0.0625W, 0402, REEL"                                                             RC0402JR-0722RL.             
 TopLayer    R511       35.2201      20.9387      270      0402_RES                     "RES, THICK FILM, 22R, 5%, 0.0625W, 0402, REEL"                                                             RC0402JR-0722RL.             
 TopLayer    R510       36.0151      20.9133      270      0402_RES                     "RES, THICK FILM, 22R, 5%, 0.0625W, 0402, REEL"                                                             RC0402JR-0722RL.             
 TopLayer    R509       36.8101      20.9133      270      0402_RES                     "RES, THICK FILM, 22R, 5%, 0.0625W, 0402, REEL"                                                             RC0402JR-0722RL.             
@@ -104,12 +104,12 @@ TopLayer    R113       70.0229      31.9520      90       0402_RES              
 TopLayer    R111       63.0304      50.9758      0        0402_RES                     "330 ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film" CRGCQ0402J330R               
 TopLayer    R101       58.9284      21.3635      90       0402_RES                     "RES 1K OHM 5% 1/16W 0402"                                                                                  RMCF0402JT1K00               
 TopLayer    Q600       73.4948      29.8128      180      SC-85-3/SOT-323FL            "MOSFET N-CH 50V 0.2A UMT3F"                                                                                RU1J002YNTCL                 
-TopLayer    L1203      9.1767       66.0827      180      0603_RES                     "Ferrite Beads Multi-Layer 120Ohm 25% 100MHz 2A 0.05Ohm DCR 0603 Automotive T/R"                            BLM18PG121SH1D               
+TopLayer    L1203      9.1767       66.0827      180      0603_RES_1                   "Ferrite Beads Multi-Layer 120Ohm 25% 100MHz 2A 0.05Ohm DCR 0603 Automotive T/R"                            BLM18PG121SH1D               
 TopLayer    L1202      11.4947      64.5344      90       DLW21H                       "Common Mode Chokes Dual 90Ohm 100MHz 0.33A 0.35Ohm DCR SMD T/R"                                            DLW21HN900SQ2L               
 TopLayer    L1200      18.9409      65.3055      90       0402_RES                     "0OHM 0402"                                                                                                 RMCF0402ZT0R00               
-TopLayer    L909       16.6893      36.0401      180      0603_RES                     "0OHM 0603"                                                                                                 RC0603JR-070RL               
+TopLayer    L909       16.6893      36.0401      180      0603_RES_1                   "0OHM 0603"                                                                                                 RC0603JR-070RL               
 TopLayer    L904       24.3522      21.8948      90       DLW21H                       "Common Mode Chokes Dual 90Ohm 100MHz 0.33A 0.35Ohm DCR SMD T/R"                                            DLW21HN900SQ2L               
-TopLayer    L701       63.3401      49.0409      180      0603_RES                     "0OHM 0603"                                                                                                 RC0603JR-070RL               
+TopLayer    L701       63.3401      49.0409      180      0603_RES_1                   "0OHM 0603"                                                                                                 RC0603JR-070RL               
 TopLayer    D1201      5.0650       69.5780      90       0603_LED                     "LED SMD 0603 SUPER GREEN"                                                                                  LTST-C190KRKT                
 TopLayer    D1200      6.1981       69.5780      90       0603_LED                     "LED SMD 0603 SUPER GREEN"                                                                                  LTST-C190KRKT                
 TopLayer    D802       59.9213      19.4125      90       0603_LED                     "LED SMD 0603 SUPER GREEN"                                                                                  LTST-C190KRKT                
@@ -129,7 +129,7 @@ TopLayer    C1203      13.2081      53.6949      90       0402_CC               
 TopLayer    C1202      8.9471       55.5221      270      0402_CC                      "CAP CER 18PF 50V C0G/NP0 0402"                                                                             GCM1555C1H180JA16D           
 TopLayer    C1201      20.5744      65.3055      90       0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 TopLayer    C1200      19.7577      65.3055      90       0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
-TopLayer    C906       18.7134      35.8648      270      0805                         "CAP CER 10UF 16V X5R 0805"                                                                                 CL21A106KOQNNNG              
+TopLayer    C906       18.7134      35.8648      270      0805_2                       "CAP CER 10UF 16V X5R 0805"                                                                                 CL21A106KOQNNNG              
 TopLayer    C905       17.0934      34.9552      0        0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 TopLayer    C702       66.3809      46.8446      0        0603_CC                      "CAP CER 10UF 6.3V X6S 0603"                                                                                JMK107BC6106MA-T             
 TopLayer    C700       63.0304      50.0631      180      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
@@ -151,9 +151,9 @@ BottomLayer R1110      35.7759      68.8340      90       FP-RMCF0603-IPC_C     
 BottomLayer R1103      28.5750      68.8340      90       FP-RMCF0603-IPC_C            "10kO ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                            RMCF0603JT10K0               
 BottomLayer R1100      9.8044       40.4368      0        FP-RMCF0603-IPC_C            "10kO ±5% 0.1W 0603 Thick Film Chip Resistor AEC-Q200 compliant"                                            RMCF0603JT10K0               
 BottomLayer Q1100      9.9416       36.8714      270      ONSC-SOT-23-3-318-08_V       "General Purpose Transistor, PNP Silicon, 3-Pin SOT-23, Pb-Free, Tape and Reel"                             BC807-40LT1G                 
-BottomLayer R910       11.2458      28.7782      0        0402_RES                     "RES 0 OHM JUMPER 1/16W 0402"                                                                               RMCF0402ZT0R00               
-BottomLayer R704       62.9856      46.9900      270      0402_RES                     "RES 0 OHM JUMPER 1/16W 0402"                                                                               RMCF0402ZT0R00               
-BottomLayer R702       63.7984      46.9900      270      0402_RES                     "RES 0 OHM JUMPER 1/16W 0402"                                                                               RMCF0402ZT0R00               
+BottomLayer R910       11.2458      28.7782      0        0402_RES_1                   "RES 0 OHM JUMPER 1/16W 0402"                                                                               RMCF0402ZT0R00               
+BottomLayer R704       62.9856      46.9900      270      0402_RES_1                   "RES 0 OHM JUMPER 1/16W 0402"                                                                               RMCF0402ZT0R00               
+BottomLayer R702       63.7984      46.9900      270      0402_RES_1                   "RES 0 OHM JUMPER 1/16W 0402"                                                                               RMCF0402ZT0R00               
 BottomLayer F901       16.5036      3.9243       90       1812                         "THERMISTOR PTC RESETTABLE FUSE 1206 1100mA 33V 1812"                                                       KMC5S110RY33                 
 BottomLayer D1203      20.3596      62.8259      0        SOD523                       "DIODE SCHOTTKY 30V 200MA SOD523"                                                                           RB520S30T1G                  
 BottomLayer C1205      14.6708      58.6800      270      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
@@ -164,7 +164,7 @@ BottomLayer L1201      15.9220      66.5724      90       0805                  
 BottomLayer C1204      13.9648      65.9349      0        0603_CC                      "CAP CER 1UF 25V X7R 0603"                                                                                  CL10B105KA8NNNC              
 BottomLayer FD105      4.9212       48.5902      90       FD                           ""                                                                                                          "                            
 BottomLayer FD104      32.0230      6.6040       90       FD                           ""                                                                                                          "                            
-BottomLayer FD103      36.9349      32.6714      90       FD                           ""                                                                                                          "                            
+BottomLayer FD103      36.9349      32.6714      90       FD_1                         ""                                                                                                          "                            
 BottomLayer C633       50.8845      42.6653      180      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C631       50.8730      43.4809      180      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C604       46.2113      37.8304      180      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
@@ -204,7 +204,7 @@ BottomLayer R1000      47.2649      71.0178      0        0402_RES              
 BottomLayer R904       19.6580      33.4066      90       0402_RES                     "RES 100K OHM 5% 1/16W 0402"                                                                                RMCF0402JT100K               
 BottomLayer R903       20.4962      33.4066      90       0402_RES                     "RES 100K OHM 5% 1/16W 0402"                                                                                RMCF0402JT100K               
 BottomLayer R817       36.7022      46.6296      0        0402_RES                     "7.87 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"              CRCW04027K87FKED             
-BottomLayer R816       30.6285      47.5917      90       0603_RES                     "RES 4.99K OHM %1 1/10W 0603"                                                                               RC0603FR-074K99L             
+BottomLayer R816       30.6285      47.5917      90       0603_RES_1                   "RES 4.99K OHM %1 1/10W 0603"                                                                               RC0603FR-074K99L             
 BottomLayer R815       61.5954      9.0333       270      0402_RES                     "RES 4.7K OHM 5% 1/16W 0402"                                                                                RC0402JR-074K7L              
 BottomLayer R814       38.7484      46.6900      180      0402_RES                     "24.9 ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) - Thick Film"                                      RC0402FR-0724K9L             
 BottomLayer R813       31.1538      43.0070      180      0402_RES                     "330 ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film" CRGCQ0402J330R               
@@ -251,30 +251,30 @@ BottomLayer Q603       55.0862      21.0820      90       SOT-363               
 BottomLayer Q602       59.7598      20.9804      270      SOT-363                      "MOSFET DUAL N-CHANNEL 20V 250MA SOT-363"                                                                   SSM6N37FU,LF                 
 BottomLayer Q601       49.6753      15.5293      180      SOT23                        "TRANS PNP 65V 0.1A SOT-23"                                                                                 BC846B,215                   
 BottomLayer Q500       44.1186      15.8744      90       SOT23                        "MOSFET P-CH 20V 4.2A SOT23"                                                                                DMG2305UX-13                 
-BottomLayer L907       22.4805      8.5369       180      0603_RES                     "Ferrite Beads Multi-Layer 120Ohm 25% 100MHz 2A 0.05Ohm DCR 0603 Automotive T/R"                            BLM18PG121SH1D               
-BottomLayer L902       23.1355      19.4019      90       0603_RES                     "0OHM 0603"                                                                                                 RC0603JR-070RL               
-BottomLayer L805       35.9575      42.0703      270      0603_RES                     "0OHM 0603"                                                                                                 RC0603JR-070RL               
+BottomLayer L907       22.4805      8.5369       180      0603_RES_1                   "Ferrite Beads Multi-Layer 120Ohm 25% 100MHz 2A 0.05Ohm DCR 0603 Automotive T/R"                            BLM18PG121SH1D               
+BottomLayer L902       23.1355      19.4019      90       0603_RES_1                   "0OHM 0603"                                                                                                 RC0603JR-070RL               
+BottomLayer L805       35.9575      42.0703      270      0603_RES_1                   "0OHM 0603"                                                                                                 RC0603JR-070RL               
 BottomLayer L804       42.8180      50.5714      270      IND-NRS5030T2R2NMGJ          "Shielded Wirewound Inductor 23mOhm Nonstandard"                                                            NRS5030T2R2NMGJ              
-BottomLayer L606       60.3722      33.4936      180      0603_RES                     "Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhmFERRITE BEAD 220 OHM 0603 1LN"                       "TDK Corporation"            
-BottomLayer L601       43.5870      34.7033      0        0603_RES                     "Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhmFERRITE BEAD 220 OHM 0603 1LN"                       "TDK Corporation"            
-BottomLayer L600       60.8304      43.2827      270      0603_RES                     "Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhmFERRITE BEAD 220 OHM 0603 1LN"                       "TDK Corporation"            
-BottomLayer L500       41.9367      15.9681      90       0603_RES                     "0OHM 0603"                                                                                                 RC0603JR-070RL               
+BottomLayer L606       60.3722      33.4936      180      0603_RES_1                   "Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhmFERRITE BEAD 220 OHM 0603 1LN"                       "TDK Corporation"            
+BottomLayer L601       43.5870      34.7033      0        0603_RES_1                   "Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhmFERRITE BEAD 220 OHM 0603 1LN"                       "TDK Corporation"            
+BottomLayer L600       60.8304      43.2827      270      0603_RES_1                   "Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhmFERRITE BEAD 220 OHM 0603 1LN"                       "TDK Corporation"            
+BottomLayer L500       41.9367      15.9681      90       0603_RES_1                   "0OHM 0603"                                                                                                 RC0603JR-070RL               
 BottomLayer D901       24.5860      12.6740      90       SOD523_-_SZESD               "VS DIODE 5V SOD523"                                                                                        ESD5B5.0ST1G                 
 BottomLayer D801       61.1822      6.7310       270      SOD-323                      "DIODE ZENER 15V 400MW SOD323"                                                                              PDZ15B,115                   
 BottomLayer D800       60.7250      11.7094      90       SOD-323                      "DIODE ZENER 5.1V 320MW SOD323"                                                                             PZU5.1B2A,115                
 BottomLayer CON600     65.9110      35.2126      270      CON-SFV30R-2STBE1HLF         "30 Position FFC, FPC Connector Contacts, Top 0.020" (0.50mm) Surface Mount, Right Angle"                   SFV30R-2STBE1HLF             
-BottomLayer C916       15.2082      25.1714      0        0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
+BottomLayer C916       15.2082      25.1714      0        0402_CC_2                    "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C915       12.3336      25.5425      270      0402_CC                      "CAP CER 100PF 50V C0G/NPO 0402"                                                                            CC0402JRNPO9BN101            
 BottomLayer C914       11.4446      25.5425      270      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
-BottomLayer C913       17.7482      25.9588      180      0805                         "CAP CER 10UF 16V X5R 0805"                                                                                 CL21A106KOQNNNG              
+BottomLayer C913       17.7482      25.9588      180      0805_2                       "CAP CER 10UF 16V X5R 0805"                                                                                 CL21A106KOQNNNG              
 BottomLayer C912       17.6268      27.4018      0        0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C911       17.6268      28.4178      0        0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C910       13.0294      27.9352      0        0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C909       17.6014      30.1450      0        0402_CC                      "CAP CER 100PF 50V C0G/NPO 0402"                                                                            CC0402JRNPO9BN101            
 BottomLayer C908       17.6014      29.3068      0        0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C907       13.0294      30.9324      0        0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
-BottomLayer C904       18.0022      31.4960      0        0805                         "CAP CER 10UF 16V X5R 0805"                                                                                 CL21A106KOQNNNG              
-BottomLayer C903       15.6654      31.8516      180      0402_CC                      "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
+BottomLayer C904       18.0022      31.4960      0        0805_2                       "CAP CER 10UF 16V X5R 0805"                                                                                 CL21A106KOQNNNG              
+BottomLayer C903       15.6654      31.8516      180      0402_CC_2                    "CAP VER 0.1UF 16V X7R 0402"                                                                                CL05B104KO5NNNC              
 BottomLayer C806       38.2285      41.6077      180      0603_CC                      "±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                         C1608X5R1A226M080AC          
 BottomLayer C805       33.2986      46.7566      0        0402_CC                      "6800pF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"                                                  CL05B682KB5NNNC              
 BottomLayer C804       38.2031      42.7761      180      0603_CC                      "±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                         C1608X5R1A226M080AC          

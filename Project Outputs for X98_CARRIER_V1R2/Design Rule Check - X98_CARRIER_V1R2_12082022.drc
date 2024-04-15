@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\pcb project\Dermscope_v2.1\X98_CARRIER_V1R2_12082022.PcbDoc
-Date     : 3/25/2024
-Time     : 9:21:17 PM
+PCB File : F:\PROJECTS\Dermscope_v2.2\X98_CARRIER_V1R2_12082022.PcbDoc
+Date     : 4/14/2024
+Time     : 9:38:47 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) ((InNet('NetC803_1') OR InNet('NetCON800_5'))),(InNet('CHASIS'))
 Rule Violations :0
@@ -130,20 +130,20 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 Waived Violations Of Rule : Clearance Constraint (Gap=0.508mm) (All),(InNet('CHASIS'))
-   Waived Violation between Clearance Constraint: (0.2mm < 0.508mm) Between Pad J800-1(7.914mm,3.379mm) on Top Layer And Pad J800-SH2(6.989mm,3.929mm) on Multi-Layer Waived by  at 3/21/2024 11:53:52 AM
-   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-1(7.914mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:53:50 AM
-   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-2(8.564mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:54:23 AM
-   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-3(9.214mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:54:25 AM
-   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-4(9.864mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:54:28 AM
-   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-5(10.514mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/21/2024 11:53:35 AM
-   Waived Violation between Clearance Constraint: (0.2mm < 0.508mm) Between Pad J800-5(10.514mm,3.379mm) on Top Layer And Pad J800-SH5(11.439mm,3.929mm) on Multi-Layer Waived by  at 3/21/2024 11:53:38 AM
+   Waived Violation between Clearance Constraint: (0.2mm < 0.508mm) Between Pad J800-1(7.914mm,3.379mm) on Top Layer And Pad J800-SH2(6.989mm,3.929mm) on Multi-Layer Waived by  at 3/20/2024 11:53:52 PM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-1(7.914mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/20/2024 11:53:50 PM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-2(8.564mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/20/2024 11:54:23 PM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-3(9.214mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/20/2024 11:54:25 PM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-4(9.864mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/20/2024 11:54:28 PM
+   Waived Violation between Clearance Constraint: (0.5mm < 0.508mm) Between Pad J800-5(10.514mm,3.379mm) on Top Layer And Pad J800-SH3(9.214mm,1.829mm) on Top Layer Waived by  at 3/20/2024 11:53:35 PM
+   Waived Violation between Clearance Constraint: (0.2mm < 0.508mm) Between Pad J800-5(10.514mm,3.379mm) on Top Layer And Pad J800-SH5(11.439mm,3.929mm) on Multi-Layer Waived by  at 3/20/2024 11:53:38 PM
 Waived Violations :7
 
 Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.025mm) (IsPad),(All)
-   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.025mm) Between Pad U800-5(8.523mm,16.129mm) on Top Layer And Track (9.013mm,15.607mm)(9.013mm,16.651mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by Hiibrarahmad Hiibrarahmad at 3/21/2024 1:53:08 PM
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.025mm) Between Pad U800-5(8.523mm,16.129mm) on Top Layer And Track (9.013mm,15.607mm)(9.013mm,16.651mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by Hiibrarahmad Hiibrarahmad at 3/21/2024 1:53:08 AM
 Waived Violations :1
 
 
 Violations Detected : 0
 Waived Violations : 8
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:05
