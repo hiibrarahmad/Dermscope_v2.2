@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+5V Pin=FD100-FD-1
+Removed Pin From Net: NetName=+3.3V_VDD Pin=FD101-FD-1
+Removed Pin From Net: NetName=+1.5V_VDD Pin=FD102-FD-1
+Removed Pin From Net: NetName=GND Pin=FD103-FD-1
+Removed Pin From Net: NetName=+5V Pin=FD104-FD-1
+Removed Pin From Net: NetName=+1.8V_VDD Pin=FD105-FD-1
+Added Class: Name=N000-1_[0..3]
+Added Class: Name=N000-2_[0..3]
+Added Class: Name=N000-3_[0..6]
+Added Class: Name=N000-5_[0..8]
+Added Class: Name=N000-6_[0..3]
+Added Class: Name=N000-8_[0..2]
+Added Class: Name=N000-9_[0..3]
+Added Class: Name=N000-10_[0..9]
+Added Class: Name=N000-11_[0..1]
+Added Class: Name=N000-12_[0..1]
+Added Class: Name=N000-13_[0..15]
+Added Class: Name=N000-14_[0..1]
+Added Class: Name=N000-15_[0..2]
+Added Class: Name=N000-16_[0..1]
+Added Class: Name=N000-17_[0..5]
+Added Class: Name=N000-18_[0..9]
+Added Class: Name=N000-20_[0..3]
