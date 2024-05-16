@@ -1,0 +1,336 @@
+Removed Pin From Net: NetName=GPIO_EXP_2 Pin=BUTTONS-1
+Removed Pin From Net: NetName=GPIO_EXP_3 Pin=BUTTONS-2
+Removed Pin From Net: NetName=GPIO_EXP_4 Pin=BUTTONS-3
+Removed Pin From Net: NetName=GPIO_EXP_5 Pin=BUTTONS-4
+Removed Pin From Net: NetName=GPIO_EXP_6 Pin=BUTTONS-5
+Removed Pin From Net: NetName=+3.3V_VDD Pin=BUTTONS-6
+Removed Pin From Net: NetName=+3.3V_VDD Pin=J1101-1
+Removed Pin From Net: NetName=NetJ1101_2 Pin=J1101-2
+Removed Pin From Net: NetName=NetJ1101_3 Pin=J1101-3
+Removed Pin From Net: NetName=GND Pin=J1101-4
+Removed Pin From Net: NetName=+3.3V_VDD Pin=J1102-1
+Removed Pin From Net: NetName=NetJ1102_2 Pin=J1102-2
+Removed Pin From Net: NetName=NetJ1102_3 Pin=J1102-3
+Removed Pin From Net: NetName=GND Pin=J1102-4
+Removed Pin From Net: NetName=CHASIS Pin=J1102-S1
+Removed Pin From Net: NetName=CHASIS Pin=J1102-S2
+Removed Pin From Net: NetName=GND Pin=J1103-1
+Removed Pin From Net: NetName=CH7 Pin=J1103-2
+Removed Pin From Net: NetName=CH6 Pin=J1103-3
+Removed Pin From Net: NetName=CH5 Pin=J1103-4
+Removed Pin From Net: NetName=CH4 Pin=J1103-5
+Removed Pin From Net: NetName=CH3 Pin=J1103-6
+Removed Pin From Net: NetName=CH2 Pin=J1103-7
+Removed Pin From Net: NetName=CH0 Pin=J1104-1
+Removed Pin From Net: NetName=GND Pin=J1104-2
+Removed Pin From Net: NetName=CH1 Pin=J1105-1
+Removed Pin From Net: NetName=GND Pin=J1105-2
+Removed Pin From Net: NetName=NetJ1101_3 Pin=R1113-2
+Removed Pin From Net: NetName=NetJ1102_2 Pin=R1114-2
+Removed Member From Class: ClassName=11 EXPANSION CN Member=BUTTONS
+Removed Member From Class: ClassName=11 EXPANSION CN Member=J1101
+Removed Member From Class: ClassName=11 EXPANSION CN Member=J1102
+Removed Member From Class: ClassName=11 EXPANSION CN Member=J1103
+Removed Member From Class: ClassName=11 EXPANSION CN Member=J1104
+Removed Member From Class: ClassName=11 EXPANSION CN Member=J1105
+Change Component Footprint: Designator=J? Old Footprint=GCT FFC2B28-24 New Footprint=HIROSE DF13A-4P-1.25H
+Change Component Comment : Designator=J? Old Comment=FFC2B28-24-G New Comment=I2C_CONN
+Change component parameters: Designator = "J?" ("J?"); Footprint = "GCT FFC2B28-24"; UniqueID = "\FEHQPOGQ" ("\FEHQPOGQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DF13A-4P-1.25H(75)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/hirose-electric-co-ltd/DF13A-4P-1.25H-75/H126438-ND/9170678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "39.4µin (1.00µm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Amps)"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Detent Lock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Solder Retention"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Color"; Value = "Beige"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Height"; Value = "0.142" (3.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "12/16/2019 7:34:28 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-35°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DF13A-4P-1.25H(75)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch - Mating"; Value = "0.049" (1.25mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "DF13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "H126438-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HIROSE DF13A-6P-1.25H)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hirose.com/product/document?clcode=CL0536-0109-0-76&productname=DF13-10P-1.25DSA(76)&series=DF13&documenttype=Catalog&lang=en&documentid=D31687_en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/hirose-electric-co-ltd/DF13A-6P-1.25H-75/H126442-ND/9170682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "39.4µin (1.00µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Solder Retention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.142" (3.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "1/15/2020 3:36:45 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DF13A-6P-1.25H(75)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.049" (1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "DF13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H126442-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HIROSE DF13A-2P-1.25H)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DF13A-2P-1.25H(75)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/hirose-electric-co-ltd/DF13A-2P-1.25H-75/H126434-ND/9170674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "39.4µin (1.00µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Solder Retention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.142" (3.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "12/16/2019 7:33:40 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DF13A-2P-1.25H(75)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.049" (1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "DF13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H126434-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HIROSE DF13A-4P-1.25H)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DF13A-4P-1.25H(75)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/hirose-electric-co-ltd/DF13A-4P-1.25H-75/H126438-ND/9170678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "39.4µin (1.00µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Solder Retention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.142" (3.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "12/16/2019 7:34:28 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DF13A-4P-1.25H(75)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.049" (1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "DF13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H126438-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HIROSE DF13A-2P-1.25H)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DF13A-2P-1.25H(75)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/hirose-electric-co-ltd/DF13A-2P-1.25H-75/H126434-ND/9170674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "39.4µin (1.00µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Solder Retention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.142" (3.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "12/16/2019 7:33:40 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DF13A-2P-1.25H(75)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.049" (1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "DF13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H126434-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(JST BM08B-SRSS-TB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eSR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/jst-sales-america-inc/BM08B-SRSS-TB-LF-SN/455-1794-1-ND/926865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "0.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Solder Retention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.167" (4.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "1/12/2020 10:15:38 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BM08B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.039" (1.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1794-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CH2 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GPIO_EXP_2 Pin=J?-1
+Added Pin To Net: NetName=CH0 Pin=J?-2
+Added Pin To Net: NetName=CH1 Pin=J?-2
+Added Pin To Net: NetName=CH3 Pin=J?-2
+Added Pin To Net: NetName=GPIO_EXP_3 Pin=J?-2
+Added Pin To Net: NetName=NetJ1102_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ1102_3 Pin=J?-2
+Added Pin To Net: NetName=CH4 Pin=J?-3
+Added Pin To Net: NetName=GPIO_EXP_4 Pin=J?-3
+Added Pin To Net: NetName=NetJ1101_2 Pin=J?-3
+Added Pin To Net: NetName=NetJ1101_3 Pin=J?-3
+Added Pin To Net: NetName=+3.3V_VDD Pin=J?-4
+Added Pin To Net: NetName=+3.3V_VDD Pin=J?-4
+Added Pin To Net: NetName=CH5 Pin=J?-4
+Added Pin To Net: NetName=GPIO_EXP_5 Pin=J?-4
+Added Pin To Net: NetName=CH6 Pin=J?-5
+Added Pin To Net: NetName=GPIO_EXP_6 Pin=J?-5
+Added Pin To Net: NetName=+3.3V_VDD Pin=J?-6
+Added Pin To Net: NetName=CH7 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=NetJ1102_2 Pin=R1113-2
+Added Pin To Net: NetName=NetJ1101_3 Pin=R1114-2
+Change Net Name : Old Net Name=NetJ1101_2 New Net Name=NetJ?_3
+Change Net Name : Old Net Name=NetJ1101_3 New Net Name=NetJ?_3
+Change Net Name : Old Net Name=NetJ1102_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetJ1102_3 New Net Name=NetJ?_2
+Added Class: Name=N000-1_[0..3]
+Added Class: Name=N000-3_[0..6]
+Added Class: Name=N000-4_[0..1]
+Added Class: Name=N000-5_[0..1]
+Added Class: Name=N000-6_[0..2]
+Added Class: Name=N000-7_[0..3]
+Added Class: Name=N000-8_[0..9]
+Added Class: Name=N000-9_[0..1]
+Added Class: Name=N000-10_[0..8]
+Added Class: Name=N000-11_[0..3]
+Added Class: Name=N000-13_[0..15]
+Added Class: Name=N000-14_[0..1]
+Added Class: Name=N000-15_[0..2]
+Added Class: Name=N000-16_[0..1]
+Added Class: Name=N000-17_[0..5]
+Added Class: Name=N000-18_[0..9]
+Added Class: Name=N000-20_[0..3]
+Added Member To Class: ClassName=11 EXPANSION CN Member=Component J? I2C_CONN
+Added Member To Class: ClassName=11 EXPANSION CN Member=Component J? BUTTON_CONN
+Added Member To Class: ClassName=11 EXPANSION CN Member=Component J? ADC_CH1
+Added Member To Class: ClassName=11 EXPANSION CN Member=Component J? ADC_CH0
+Added Member To Class: ClassName=11 EXPANSION CN Member=Component J? ADC_CONN
+Added Member To Class: ClassName=11 EXPANSION CN Member=Component J? UART_CONN
