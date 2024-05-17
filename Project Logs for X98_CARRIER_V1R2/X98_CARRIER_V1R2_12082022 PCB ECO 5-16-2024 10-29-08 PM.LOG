@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-9
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change component parameters: Designator = "U1" ("U?"); Footprint = "SOP-8_EP_150MIL"; UniqueID = "\XBARBBKV" ("\XBARBBKV")
+Change component parameters (AddParameter): Name = "Contributor"; Value = "Stefan Wagner"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "INJOINIC(???)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "IP2312U_VSET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "IP2312-4V35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C605432"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component C? 10 µF
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component C? 10 µF
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component R? 2 Ohms
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component R? 43 kOhms
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component R? 100 Ohms
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component R? 51 kOhms
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component U? IP2312

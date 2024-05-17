@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=J801-1
+Change Component Footprint: Designator=J801 Old Footprint=JST XH B2B-XH-A New Footprint=CTS 218-2LPJ
+Change Component Comment : Designator=J801 Old Comment=B2B-XH-A(LF)(SN) New Comment=218-2LPST
+Change Component Designator: OldDesignator=J801 NewDesignator=SW800
+Change component parameters: Designator = "J801" ("SW800"); Footprint = "JST XH B2B-XH-A"; UniqueID = "\WKOCKKZG" ("\WKOCKKZG")
+Change component parameters (AddParameter): Name = "Actuator Level"; Value = "Flush, Recessed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Slide (Standard)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ctscorp.com/wp-content/uploads/218.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/cts-electrocomponents/218-2LPST/CT2182LPST-ND/267319"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Beryllium Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Amps)"; Value = "25mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Epoxy Sealed Terminals, Tape Seal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Above Board"; Value = "0.104" (2.65mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "1/4/2020 6:30:26 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CTS Electrocomponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "218-2LPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.050" (1.27mm), Half"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1.04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CT2182LPST-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "24VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Washable"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC800_2 Pin=SW800-1
+Added Pin To Net: NetName=+VIN_USB Pin=SW800-3
+Added Pin To Net: NetName=+5V Pin=SW800-4
+Added Member To Class: ClassName=08 USB OTG & POWER Member=Component R802 100 Ohms
