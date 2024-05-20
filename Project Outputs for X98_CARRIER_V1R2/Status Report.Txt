@@ -1,11 +1,10 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: IPC-2581 Files
+Type  : IPC2581
 From  : Variant [[No Variations]] of Project [X98_CARRIER_V1R2.PrjPcb]
-   Generated File[Pick Place for X98_CARRIER_V1R2_12082022.txt]
-   Generated File[Pick Place for X98_CARRIER_V1R2_12082022.csv]
+   Generated File[X98_CARRIER_V1R2_12082022.cvg]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:04:00 AM On 4/15/2024
+Finished Output Generation At 11:05:41 PM On 5/19/2024

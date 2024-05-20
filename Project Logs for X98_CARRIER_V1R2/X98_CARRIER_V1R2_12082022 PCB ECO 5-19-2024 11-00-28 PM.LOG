@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=Testpoint_101 Pin=SW800-3
+Added Net: Name=Testpoint_101
+Added Class: Name=N000-2_[0..3]
+Added Class: Name=N000-3_[0..6]
+Added Class: Name=N000-5_[0..3]
+Added Class: Name=N000-6_[0..3]
+Added Class: Name=N000-7_[0..5]
+Added Class: Name=N000-8_[0..3]
+Added Class: Name=N000-10_[0..2]
+Added Class: Name=N000-11_[0..1]
+Added Class: Name=N000-12_[0..1]
+Added Class: Name=N000-14_[0..1]
+Added Class: Name=N000-15_[0..9]
+Added Class: Name=N000-16_[0..1]
+Added Class: Name=N000-17_[0..2]
+Added Class: Name=N000-18_[0..15]
+Added Class: Name=N000-19_[0..9]
+Added Class: Name=N000-20_[0..8]
