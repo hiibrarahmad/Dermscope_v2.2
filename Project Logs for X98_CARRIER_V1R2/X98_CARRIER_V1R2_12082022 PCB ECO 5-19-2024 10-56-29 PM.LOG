@@ -1,6 +1,0 @@
-Added Component: Designator=TP800(PCBComponent_1)
-Added Component: Designator=TP801(PCBComponent_1)
-Add Pin To Net: Unknown Pin: Pin TP800-1
-Add Pin To Net: Unknown Pin: Pin TP801-1
-Added Member To Class: ClassName=08 USB OTG & POWER Member=Component TP800 test point
-Added Member To Class: ClassName=08 USB OTG & POWER Member=Component TP801 test point
